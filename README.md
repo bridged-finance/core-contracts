@@ -7,7 +7,7 @@ Users should give approval on their tokens to the `MetaRouterGateway` contract o
 During `metaRoute` transactions, `MetaRouter` (and only this contract) claims the user's tokens from the `MetaRoutetGateway` contract and then
 operates with them.
 
-For general information about the protocol and its smart contracts, please refer to [the Symbiosis documentation](https://docs.symbiosis.finance/).
+For general information about the protocol and its smart contracts, please refer to [the Bridged documentation](https://docs.bridged.finance/).
 
 ## MetaRouteTransaction
 
